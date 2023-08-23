@@ -16,7 +16,7 @@ Hope is a high level language for predicate evaluation on JSON written in java. 
 
 ### Maven dependency
 Use the following dependency in your code.
-```
+```xml
     <dependency>
         <groupId>io.appform.hope</groupId>
         <artifactId>hope-lang</artifactId>
